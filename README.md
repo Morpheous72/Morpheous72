@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB Developpement
 - 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Morpheous72 on discord
+- 📫 How to reach me on discord Morpheous72#6306
 
 <!---
 Morpheous72/Morpheous72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
