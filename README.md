@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Morpheous72
 - 👀 I’m interested in WEB Developer 'MERN' Stack
 - 🌱 I’m currently learning JavaScript React Node MongoDB ......
-- 💞️ I’m looking to collaborate on MERN Projects
+- 💞️ I’m willing to collaborate on MERN Projects
 - 💞️ I'm currently looking for an internship to improve my knowledge
 - 📫 How to reach me on discord Morpheous72#6306
